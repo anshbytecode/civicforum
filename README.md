@@ -4,6 +4,8 @@ A full-stack, cross-platform civic engagement system bridging the communication 
 
 https://civicanshulappctrlaltelite.netlify.app/
 
+https://civicnavaanshulappctrlaltelite.vercel.app/
+
 https://civicforumnava.onrender.com/api/health
 
 

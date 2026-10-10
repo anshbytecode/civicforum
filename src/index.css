@@ -9,6 +9,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
+    
     /* Civic Forum Design System */
     --background: 217 33% 97%;
     --foreground: 215 25% 15%;
